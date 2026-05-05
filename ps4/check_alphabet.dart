@@ -17,7 +17,7 @@ void main() {
 // _____________________________________________________________________________
 
 void checkAlphabet1(String alpha) {
-  List alphabets = ['a', 'i', 'o', 'u', 'e'];
+  List  alphabets = ['a', 'i', 'o', 'u', 'e'];
   if (alphabets.contains(alpha)) {
     print('The alphabet is a vowel');
   } else {
